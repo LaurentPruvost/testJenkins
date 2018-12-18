@@ -12,7 +12,7 @@ namespace testJenjins
 
         public static string CreateMessage()
         {
-            return "hello";
+            return "hello lolo";
         }
     }
 }
