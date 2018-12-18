@@ -1,0 +1,11 @@
+C:\Users\dmr\source\repos\testJenkins\testJenjins\bin\Debug\netcoreapp2.1\testJenjins.deps.json
+C:\Users\dmr\source\repos\testJenkins\testJenjins\bin\Debug\netcoreapp2.1\testJenjins.runtimeconfig.json
+C:\Users\dmr\source\repos\testJenkins\testJenjins\bin\Debug\netcoreapp2.1\testJenjins.runtimeconfig.dev.json
+C:\Users\dmr\source\repos\testJenkins\testJenjins\bin\Debug\netcoreapp2.1\testJenjins.dll
+C:\Users\dmr\source\repos\testJenkins\testJenjins\bin\Debug\netcoreapp2.1\testJenjins.pdb
+C:\Users\dmr\source\repos\testJenkins\testJenjins\obj\Debug\netcoreapp2.1\testJenjins.csprojAssemblyReference.cache
+C:\Users\dmr\source\repos\testJenkins\testJenjins\obj\Debug\netcoreapp2.1\testJenjins.csproj.CoreCompileInputs.cache
+C:\Users\dmr\source\repos\testJenkins\testJenjins\obj\Debug\netcoreapp2.1\testJenjins.AssemblyInfoInputs.cache
+C:\Users\dmr\source\repos\testJenkins\testJenjins\obj\Debug\netcoreapp2.1\testJenjins.AssemblyInfo.cs
+C:\Users\dmr\source\repos\testJenkins\testJenjins\obj\Debug\netcoreapp2.1\testJenjins.dll
+C:\Users\dmr\source\repos\testJenkins\testJenjins\obj\Debug\netcoreapp2.1\testJenjins.pdb
